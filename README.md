@@ -19,8 +19,8 @@ O ambiente de teste utilizado é uma página de login pública e controlada, ide
 ## ⚙️ Tecnologias e Ferramentas Utilizadas
 
 * **Aplicação Testada:** [The Internet - Heroku App (Login Page)](https://the-internet.herokuapp.com/login)
-* **Navegador:** Google Chrome
-* **Documentação:** Microsoft Excel / Google Sheets (para Casos de Teste e Relatório de Bugs)
+* **Navegador:** Google Chrome / Firefox / Opera
+* **Documentação:** Google Sheets
 * **Evidências:** Ferramenta de Captura de Tela
 * **Versionamento:** Git / GitHub
 
