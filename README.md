@@ -36,9 +36,9 @@ Foi aplicada uma metodologia baseada em casos de teste detalhados, com pré-cond
 
 ## 📊 Resultados dos Testes
 
-Após a execução dos [Número de Casos de Teste que você tem, ex: 6] casos de teste definidos para a funcionalidade de Login, **não foram identificados defeitos ou comportamentos inesperados** que impedissem o uso da funcionalidade dentro do escopo testado. Todos os casos de teste executados resultaram em "Passou", indicando a **robustez e a conformidade do software** com os requisitos esperados para o login.
+Após a execução dos 6 casos de teste definidos para a funcionalidade de Login, **não foram identificados defeitos ou comportamentos inesperados** que impedissem o uso da funcionalidade dentro do escopo testado. Todos os casos de teste executados resultaram em "Passou", indicando a **robustez e a conformidade do software** com os requisitos esperados para o login.
 
-Para detalhes completos dos cenários e resultados, consulte o arquivo `Test-Cases/FuncionalidadeLogin.xlsx` (ou o nome que você usou para sua planilha).
+Para detalhes completos dos cenários e resultados, consulte o arquivo `Test-Cases/FuncionalidadeLogin.xlsx`.
 
 ## 📂 Conteúdo do Repositório
 
